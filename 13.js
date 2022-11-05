@@ -1,0 +1,1 @@
+document.querySelector(".fl-heading .fl-heading-text").innerHTML = "JSBOOTCAMP";
